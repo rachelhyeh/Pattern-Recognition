@@ -21,7 +21,7 @@ Search for gene feature sets and design classifiers that best discriminate the t
    - All genes (no feature selection)
    
 ### Files
-- Description: Computer_Project_2
+- Description: Computer_Project_2.pdf
 - Training data: Training_Data.txt
 - Testing data: Testing_Data.txt
 - Code: CP_2.py
